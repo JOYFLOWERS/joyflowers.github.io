@@ -20,4 +20,4 @@ Outside of the above, my husband and I love to be outdoors. We enjoy light hikin
 ## Image
 ![My Pic](https://github.com/JOYFLOWERS/sierra-portfolio/issues/1#issue-491439303)  
 ## Links
-[Joys LinkedIn](https://www.linkedin.com/in/joy-flowers-mba-51a38a1a)
+[Joy's LinkedIn](https://www.linkedin.com/in/joy-flowers-mba-51a38a1a)
