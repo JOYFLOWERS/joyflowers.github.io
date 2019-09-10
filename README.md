@@ -1,10 +1,11 @@
 # sierra-portfolio
 *Joy Flowers*
 *IT75 Portfolio*
+
 ## About Me
 I had been an Information Systems professional for 35 years and just retired in June 2019. I worked in manufacturing, mortgage lending, healthcare, education, and government doing jobs such as computer programming, teaching, analytics, project management, consulting as well as serving in management capacities. I have been married for 35 years and have a daughter who teaches elementary school in Sacramento. I have lived in Stockton, California for more than 40 years.
 ## College Experience
-Many years ago, I received a Bachelor of Science in Computer Science with a Minor in Mathematics. Shortly after that, I received certification in Electronics Technology. I then received an Associates degree in Ministerial Studies. After that I received my MBA and then certification in Data Science from John Hopkins University. I have continued to take college courses throughout my life. For the past five years, I am enjoying taking data science courses. The last course I completed was Machine Learning from Coursera/Stanford.
+Many years ago, I received a Bachelor of Science in Computer Science with a Minor in Mathematics. Shortly after that, I received certification in Electronics Technology. I then received an Associates degree in Ministerial Studies. After that I received my MBA and then certification in Data Science from John Hopkins University. I have continued to take college courses throughout my life. For the past five years, I have been enjoying taking data science courses. The last course I completed was Machine Learning from Coursera/Stanford.
 ## Computer Experience
 The majority of my computer experience was in either developing or implementing comprehensive enterprise-wide systems for large companies.
 ## This Class - Python
