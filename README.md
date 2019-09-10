@@ -1,7 +1,7 @@
 # sierra-portfolio
 *Joy Flowers*
 *IT75 Portfolio*
-
+![What is this](Joy BIO Image.jpg)
 ## About Me
 I had been an Information Systems professional for 35 years and just retired in June 2019. I worked in manufacturing, mortgage lending, healthcare, education, and government doing jobs such as computer programming, teaching, analytics, project management, consulting as well as serving in management capacities. I have been married for 35 years and have a daughter who teaches elementary school in Sacramento. I have lived in Stockton, California for more than 40 years.
 ## College Experience
