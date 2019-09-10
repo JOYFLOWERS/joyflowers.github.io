@@ -18,7 +18,6 @@ My absolute greatest priority is my **family**. I have spent the past couple of 
 ## Interests
 Outside of the above, my husband and I love to be outdoors. We enjoy light hiking (as I have an ankle injury) and kayaking. In my earlier years, I enjoyed a lot of sports in- and outside of school which include volleyball, track, dancing, gymnastics, swimming, figure skating, tennis and badminton. 
 ## Image
-<![My Pic](https://github.com/JOYFLOWERS/sierra-portfolio/issues/1#issue-491439303) > 
-![My Pic](https://user-images.githubusercontent.com/12633041/64592650-4dad4400-d361-11e9-87a4-c58f519dbdc0.jpg)
+![Joy's Pic](https://user-images.githubusercontent.com/12633041/64592650-4dad4400-d361-11e9-87a4-c58f519dbdc0.jpg)
 ## Links
 [Joy's LinkedIn](https://www.linkedin.com/in/joy-flowers-mba-51a38a1a)
