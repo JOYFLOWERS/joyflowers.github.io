@@ -21,8 +21,8 @@ Outside of the above, my husband and I love to be outdoors. We enjoy light hikin
 ![Joy's Pic](https://user-images.githubusercontent.com/12633041/64592650-4dad4400-d361-11e9-87a4-c58f519dbdc0.jpg)
 ## Links
 [Joy's LinkedIn](https://www.linkedin.com/in/joy-flowers-mba-51a38a1a)  
-![Fundamentals of Programming in Python](Fundamentals_of_Programming_in_Python.md)  
-![Data Analytics](Data_Analytics.md)  
-![Internet of Things (ioT)](Internet_of_Things_(ioT).md)  
-![Python Hackathon](Python_Hackathon.md)  
-![Secure Scripting](Secure_Scripting.md)  
+[Fundamentals of Programming in Python](Fundamentals_of_Programming_in_Python.md)  
+[Data Analytics](Data_Analytics.md)  
+[Internet of Things (ioT)](Internet_of_Things_(ioT).md)  
+[Python Hackathon](Python_Hackathon.md)  
+[Secure Scripting](Secure_Scripting.md)  
