@@ -24,5 +24,5 @@ Outside of the above, my husband and I love to be outdoors. We enjoy light hikin
 [Fundamentals of Programming in Python](Fundamentals_of_Programming_in_Python.md)  
 [Data Analytics](Data_Analytics.md)  
 [Internet of Things (ioT)](Internet_of_Things_(ioT).md)  
-[Python Hackathon](www.JOYFLOWERS/joyflowers.github.io/master/Python_Hackathon.md)  
+[Python Hackathon](www.joyflowers.github.io/master/Python_Hackathon.md)  
 [Secure Scripting](Secure_Scripting.md)  
