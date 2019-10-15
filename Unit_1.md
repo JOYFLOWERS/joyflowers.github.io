@@ -13,3 +13,4 @@ Of all the projects, there are none that I would remove from the collection. So 
 The Password Manager has a real-world application as there are many Password Manager programs sold to and used by IT departments for the security of their employees and software systems. These Password Manager systems can also be used by individuals as long as they are made to be secure. 
 
 I do feel that this reflects my abilities but it is a work in process. I would not typically publish this work prior to a fully complete system, but in this case, the objective in this course is not to continue with a full-scale Password Manager system. If this were the objective, I would publish it when it was fully enhanced, but instead the course will move us in new directions and focus on other aspects of Python.
+[Back to About Me README](README.md) 
