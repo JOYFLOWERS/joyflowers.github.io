@@ -15,6 +15,49 @@ The Password Manager has a real-world application as there are many Password Man
 I do feel that this reflects my abilities but it is a work in process. I would not typically publish this work prior to a fully complete system, but in this case, the objective in this course is not to continue with a full-scale Password Manager system. If this were the objective, I would publish it when it was fully enhanced, but instead the course will move us in new directions and focus on other aspects of Python.
 
 Here is the Password Manager program.
+pw.py - A Password Locker Systems (PLS) named Phyllis.
+Joy Flowers
+10/11/19
+This Password Locker System manages passwords for you so you do not have to keep
+track of them. It prompts for URL and password. It encrypts the password and saves it.
+When retrieving the password, it copies it to the clipboard after decrypting and
+launches the website. It also will generate a password upon request.
+
+Future Enhancements could include: Adding multiple users, more error validation, saving
+the added data to a file, and reading from that file.
+
+NEW FEATURE: Launches Website after retrieving OR after adding a new password
+
+ Here is a TEST CASE 
+Launch the program by running the following command line:
+
+   ./pw.py service 
+   (where service is the service or website you need the password for)
+
+Examples:
+
+  ./pw.py amazon
+  ./pw.py expedia
+  ./pw.py gmail
+
+To see all of the features, try running the program as follows:
+After entering the username as jflowers and the (master) passphrase as ‘GoPhyllisGoPhyllis’,
+
+At the menu, enter option 3 to generate a password.
+Copy the password
+At the menu, enter option 1 to add a password.
+  Enter www.amazon.com (as suggested in the prompt)
+  Enter amazon 		(as suggested in the prompt)
+  Paste the generated password when prompted for it.
+  Respond N to not launch the website   
+At the menu, enter option 2 to retrieve the password.       
+  Press enter to launch the website.
+  Note: the website will not automatically return you 
+  to the program. 
+Return to the program and enter option 4 to exit from it.
+
+END TEST CASE 
+
 
     # START PROGRAM
     def intro():
