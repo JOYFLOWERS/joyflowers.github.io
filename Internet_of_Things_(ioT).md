@@ -1,1 +1,1 @@
-# Internet of Things (ioT)
+# Internet of Things ioT
