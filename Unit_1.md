@@ -19,7 +19,6 @@ I do feel that this reflects my abilities but it is a work in process. I would n
 Here is the Password Manager program.
 
 pw.py - A Password Locker Systems (PLS) named Phyllis.
-
 Joy Flowers 10/11/19
 
 This Password Locker System manages passwords for you so you do not have to keep
