@@ -14,47 +14,47 @@ The Password Manager has a real-world application as there are many Password Man
 
 I do feel that this reflects my abilities but it is a work in process. I would not typically publish this work prior to a fully complete system, but in this case, the objective in this course is not to continue with a full-scale Password Manager system. If this were the objective, I would publish it when it was fully enhanced, but instead the course will move us in new directions and focus on other aspects of Python.
 
-# START PROGRAM
-def intro():
-   global option, username
-# This provides the user with an introduction to the PL system.
-   print("""
-Hi, I am Phyllis, your Password Locker System (PLS).
-I will help you to:
-   * Store passwords for websites and other software
-   * Retrieve your password when you need it and copy
-     it to the clipboard so you don't have to remember it,
-     and then launch the associated website
-   * Encrypt/decrypt to keep your passwords secure
-   * Generate a password for you
+    # START PROGRAM
+    def intro():
+       global option, username
+    # This provides the user with an introduction to the PL system.
+        print("""
+    Hi, I am Phyllis, your Password Locker System (PLS).
+    I will help you to:
+       * Store passwords for websites and other software
+       * Retrieve your password when you need it and copy
+         it to the clipboard so you don't have to remember it,
+         and then launch the associated website
+       * Encrypt/decrypt to keep your passwords secure
+       * Generate a password for you
    
-Once you enter your username and master passphrase,
-we can start with whatever you like: """)
-   passphrase = 'GoPhyllisGoPhyllis'
-#   passphrase = 'Go'
-# Enter user name and passphrase
-   master=''
-   username = input('Username: ')
-   while master != passphrase:
-      master = input('Enter your passphrase: ')
-      if master == passphrase:
-         print('\n Great! What would you like to do now? ')
-         break
-      else:
-         print("That's not your passphrase, try again")
+    Once you enter your username and master passphrase,
+    we can start with whatever you like: """)
+       passphrase = 'GoPhyllisGoPhyllis'
+    #   passphrase = 'Go'
+    # Enter user name and passphrase
+       master=''
+       username = input('Username: ')
+       while master != passphrase:
+          master = input('Enter your passphrase: ')
+          if master == passphrase:
+             print('\n Great! What would you like to do now? ')
+             break
+          else:
+             print("That's not your passphrase, try again")
          
-def menu():
-# This function provides a menu of options/features to choose from.
-# Depending on the option, the program executes that feature.
-   global option, username
-   print("""
-Menu:
-1) Add a password for a service
-2) Retrieve a password, copy it to the clipboard and launch website
-3) Generate a password for a service 
-4) Exit the Program """)  
-   option = input('\n Tell me what you want to do by entering 1, 2, 3 or 4: ')
-   return option, username
+    def menu():
+    # This function provides a menu of options/features to choose from.
+    # Depending on the option, the program executes that feature.
+       global option, username
+       print("""
+    Menu:
+    1) Add a password for a service
+    2) Retrieve a password, copy it to the clipboard and launch website
+    3) Generate a password for a service 
+    4) Exit the Program """)  
+       option = input('\n Tell me what you want to do by entering 1, 2, 3 or 4: ')
+       return option, username
 
 def tough_decryptr2(phrase,keya,keyb):  #Encrypts OR Decrypts depending on parameter order
    global txt
