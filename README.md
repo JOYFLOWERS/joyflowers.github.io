@@ -23,7 +23,7 @@ Outside of the above, my husband and I love to be outdoors. We enjoy light hikin
 [Joy's LinkedIn](https://www.linkedin.com/in/joy-flowers-mba-51a38a1a)  
 [Fundamentals of Programming in Python](Fundamentals_of_Programming_in_Python.md)  
 [Data Analytics](Data_Analytics.md)  
-[Internet of Things (ioT)](Internet_of_Things_(ioT).md)  
+[Internet of Things IoT](Internet_of_Things_IoT.md)  
 [Python Hackathon](Python_Hackathon.md)  
 [Secure Scripting](Secure_Scripting.md)  
 [Unit 1 Reflections](Unit_1.md) 
