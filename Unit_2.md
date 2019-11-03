@@ -23,9 +23,10 @@ car (because of lack of memory I would have to remove it), and then see if I cou
 such as lights, voice and other things. It is disappointing that not all of these things can be programmed at the same time for this 
 little car.
 
-PUT PIC OF CAR HERE
+![Joy's Pic](https://user-images.githubusercontent.com/12633041/64592650-4dad4400-d361-11e9-87a4-c58f519dbdc0.jpg)
 
 This is the code that controls the first microbit. This microbit sends messages to the car's microbit to control its direction.
+
     # Joy Flowers
     # 10/30/19
     import radio
@@ -80,6 +81,7 @@ This is the code that controls the first microbit. This microbit sends messages 
 
 This is the code that was added to the Yahboom Python code in order to made the car move (at a steady speed) backward, left, right, 
 forward and to stop.
+
     def move_car(q12a, q12b, q13a, q13b, q15a, q15b, q14a, q14b):
         pwm.set_pwm(12, q12a, q12b)
         pwm.set_pwm(13, q13a, q13b)
@@ -112,10 +114,5 @@ forward and to stop.
                     sleep(1000)
                     done = 0
     radio.off()
-
-
-
-
-PUT CODE of CAR and MICROBIT here
 
 [Back to About Me README](README.md) 
