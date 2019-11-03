@@ -25,9 +25,97 @@ little car.
 
 PUT PIC OF CAR HERE
 
+This is the code that controls the first microbit. This microbit sends messages to the car's microbit to control its direction.
+    # Joy Flowers
+    # 10/30/19
+    import radio
+    from microbit import *
+    # Starter code for accelerometer came from Steve Brown - BourneToCode.com
+    # The radio won't work unless it's switched on.
+    radio.on()
+    # Event loop.
+    # Button A sends a "flash" message.
+    # if button_a.is_pressed():
+    while True:
+        radio.send('flash')  # Start the robot
+        sleep(2000)
+        x_acc = accelerometer.get_x()
+        y_acc = accelerometer.get_y()
+        tol = 200
+        if x_acc < -1*tol:
+            # move left
+            left = Image("00900:09000:99999:09000:00900")
+            display.show(left)
+            radio.send('left')
+            sleep(1000)
+        elif x_acc > tol:
+            # move right
+            right = Image("00900:00090:99999:00090:00900")
+            display.show(right)
+            radio.send('right')
+            sleep(1000)
+        if y_acc < -1*tol:
+            # move forward
+            forward = Image("00900:09990:90909:00900:00900")
+            display.show(forward)
+            radio.send('forward')
+            sleep(1000)
+        elif y_acc > tol:
+            # move backward
+            backward = Image("00900:00900:90909:09990:00900")
+            display.show(backward)
+            radio.send('backward')
+            sleep(1000)
+            incoming = radio.receive()
+            if incoming == 'flash':
+                display.show(Image.COW)
+        if x_acc >= -1*tol and x_acc <= tol and y_acc >= -1*tol and y_acc <= tol:
+            radio.send('stop')
+            display.show(Image.HAPPY)
+        if button_b.is_pressed():
+            radio.send('stop')
+            break
+            # display.clear()
+    radio.off()   
+
 This is the code that was added to the Yahboom Python code in order to made the car move (at a steady speed) backward, left, right, 
 forward and to stop.
+    def move_car(q12a, q12b, q13a, q13b, q15a, q15b, q14a, q14b):
+        pwm.set_pwm(12, q12a, q12b)
+        pwm.set_pwm(13, q13a, q13b)
+        pwm.set_pwm(15, q15a, q15b)
+        pwm.set_pwm(14, q14a, q14b)
+    movement = ['forward', 'backward', 'left', 'right', 'stop']
+    sleep(5000)
+    display.show(Image.HAPPY)
+    done = -1
+    while done != 0:
+        incoming = radio.receive()
+        if incoming == 'flash':
+            Car_Go = True
+            while Car_Go:
+                # if button_a.is_pressed(): #from other microbit
+                incoming = radio.receive()
+                if incoming == movement[0]:
+                    move_car(1000, 2000, 0, 0, 1000, 2000, 0, 0)
+                elif incoming == movement[1]:
+                    move_car(0, 0, 1000, 2000, 0, 0, 1000, 2000)
+                elif incoming == movement[2]:
+                    move_car(0, 1000, 0, 0, 0, 2000, 0, 0)
+                elif incoming == movement[3]:
+                    move_car(0, 2000, 0, 0, 0, 1000, 0, 0)
+                elif incoming == movement[4]:
+                    move_car(0, 0, 0, 0, 0, 0, 0, 0)
+                    pwm.set_pwm(3, 0, servo_min)
+                    sleep(1000)
+                    pwm.set_pwm(3, 0, servo_max)
+                    sleep(1000)
+                    done = 0
+    radio.off()
+
+
+
 
 PUT CODE of CAR and MICROBIT here
 
-Back to About Me README
+[Back to About Me README](README.md) 
