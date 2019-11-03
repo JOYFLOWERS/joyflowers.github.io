@@ -1,6 +1,8 @@
 
 # Unit 2 Reflections
 
+## Internet of Things IoT Projects
+
 The focus of this unit was the Internet of Things (IoT). Each student in the class was given a kit from SparkFun that contained a 
 microbit from the BBC, and electronic components that work with it. As students, we were able to set up circuits and use MicroPython to cause a plethora of things to happen such as LEDs to turn on and off, use photoresisters, temperature sensors, the compass and
 accelerometer of the microbit and more. The experiments were fun and interesting. 
@@ -22,6 +24,8 @@ such as lights, voice and other things. It is disappointing that not all of thes
 little car.
 
 ![Yahboom Microbit Robot Car Project](https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/IMG_4270.jpg)
+
+## Python Code
 
 This is the code that controls the first microbit. This microbit sends messages to the car's microbit to control its direction.
 
