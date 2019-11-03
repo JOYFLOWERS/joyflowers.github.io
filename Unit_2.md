@@ -23,7 +23,7 @@ car (because of lack of memory I would have to remove it), and then see if I cou
 such as lights, voice and other things. It is disappointing that not all of these things can be programmed at the same time for this 
 little car.
 
-![Joy's Pic](https://user-images.githubusercontent.com/12633041/64592650-4dad4400-d361-11e9-87a4-c58f519dbdc0.jpg)
+![Yahboom Microbit Robot Car Project](https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/IMG_4270.jpg)
 
 This is the code that controls the first microbit. This microbit sends messages to the car's microbit to control its direction.
 
