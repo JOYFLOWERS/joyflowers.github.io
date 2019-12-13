@@ -7,8 +7,8 @@ Secure Scripting was interesting and useful but I’ve done this type of coding 
 I took Python because of my interest in Data Science. For my final project I chose to use Python with machine learning to identify indicators of chronic kidney disease. The reason I chose this is because, while working in health benefits, I noticed that end-stage renal disease (which is the last stage of chronic kidney disease) was a major cost of healthcare. Therefore, if indicators and root causes for kidney disease can be identified, prevention is possibile. If kidney disease is prevented, not only are people healthier and have a greater quality of life, but also healthcare costs overall, can decrease significantly. 
 
 ## Video
-Here is the video of the Python Machine Learning Chronic Kidney Disease Final Project:
-![Final Project](https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideo.jpg)
+Here is the video of the Python Machine Learning Chronic Kidney Disease Final Project:   
+![Final Project](https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideo.jpg)   
 
 <video poster="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideo.jpg" width="618" height="347" controls preload> 
     <source src="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideoFinal.mp4" media="only screen and (min-device-width: 568px)"></source> 
