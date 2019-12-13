@@ -12,7 +12,7 @@ Here is the video of the Python Machine Learning Chronic Kidney Disease Final Pr
 
 <video poster="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideo.jpg" width="618" height="347" controls preload> 
     <source src="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideoFinal.mp4" media="only screen and (min-device-width: 568px)"></source> 
-    <source src="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideoFinal.webmsd.webm">/source> 
+    <source src="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideoFinal.webmsd.webm"></source> 
 </video>
 
 It is amazing that Python can be used in so many areas. It seems to be such a versatile language and gives the programmer the ability to easily do great works.
