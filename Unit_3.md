@@ -1,4 +1,4 @@
-#Unit 3 Reflections
+# Unit 3 Reflections
 
 This last unit consisted of Secure Scripting, GUI Automation, Web Scraping and the Hackathon Final Project. I especially enjoyed the GUI Automation section and the Final Project.
 
@@ -6,6 +6,7 @@ Secure Scripting was interesting and useful but I’ve done this type of coding 
 
 I took Python because of my interest in Data Science. For my final project I chose to use Python with machine learning to identify indicators of chronic kidney disease. The reason I chose this is because, while working in health benefits, I noticed that end-stage renal disease (which is the last stage of chronic kidney disease) was a major cost of healthcare. Therefore, if indicators and root causes for kidney disease can be identified, prevention is possibile. If kidney disease is prevented, not only are people healthier and have a greater quality of life, but also healthcare costs overall, can decrease significantly. 
 
+## Video
 Here is the video of the Python Machine Learning Chronic Kidney Disease Final Project:
 <video src="PythonMLVideoFinal.mp4" width="320" height="200" controls preload></video>
 
