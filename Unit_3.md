@@ -8,7 +8,7 @@ I took Python because of my interest in Data Science. For my final project I cho
 
 ## Video
 Here is the video of the Python Machine Learning Chronic Kidney Disease Final Project:
-<video src="PythonMLVideoFinal.mp4" width="320" height="200" controls preload></video>
+<video src="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideoFinal.mp4" poster="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideo.jpg" width="320" height="200" controls preload></video>
 
 It is amazing that Python can be used in so many areas. It seems to be such a versatile language and gives the programmer the ability to easily do great works.
 
