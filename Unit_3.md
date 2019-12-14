@@ -8,7 +8,6 @@ I took Python because of my interest in Data Science. For my final project I cho
 
 ## Video
 Here is the video of the Python Machine Learning Chronic Kidney Disease Final Project:   
-![Final Project](https://github.com/JOYFLOWERS/joyflowers.github.io/PythonMLVideo.jpg)   
 
 <video poster="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideo.jpg" width="618" height="347" controls preload> 
     <source src="https://github.com/JOYFLOWERS/joyflowers.github.io/blob/master/PythonMLVideoFinal.mp4" media="only screen and (min-device-width: 568px)"></source> 
